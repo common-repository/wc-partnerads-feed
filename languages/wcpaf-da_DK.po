@@ -1,0 +1,176 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WC PartnerAds Feed\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: Thu Jun 09 2016 11:36:35 GMT+0200 (Rom, sommertid)\n"
+"PO-Revision-Date: Thu Jun 09 2016 14:27:43 GMT+0200 (Rom, sommertid)\n"
+"Last-Translator: dicm <info@dicm.dk>\n"
+"Language-Team: \n"
+"Language: Danish\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Loco-Target-Locale: da_DK\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: ../includes/class-wc-partnerads-feed.php:63
+msgid "There is no description for this product"
+msgstr "Der er ingen beskrivelse til dette produkt"
+
+#: ../includes/class-wc-partnerads-feed.php:66
+msgid "Default category"
+msgstr "Standard kategori"
+
+#: ../includes/class-wc-partnerads-feed.php:68
+msgid "Set the default category"
+msgstr "Set standard kategorien"
+
+#: ../includes/class-wc-partnerads-feed.php:73
+msgid "Default brand name"
+msgstr "Standard brand navn"
+
+#: ../includes/class-wc-partnerads-feed.php:75
+msgid "Set the default brand name"
+msgstr "Set standard brand navn"
+
+#: ../includes/class-wc-partnerads-feed.php:80
+msgid "Default shipping cost"
+msgstr "Standrad forsendelses omkostning"
+
+#: ../includes/class-wc-partnerads-feed.php:82
+msgid "Set the default shipping cost (Example: 39.00)"
+msgstr "Set en standrad forsendelses omkostning (Eksempel: 39.00)"
+
+#: ../includes/class-wc-partnerads-feed.php:87
+msgid "Allow images in feed?"
+msgstr "Tillad billeder i feed?"
+
+#: ../includes/class-wc-partnerads-feed.php:89
+msgid "If you allow images to be viewed in the feed, then activate the option here."
+msgstr "Hvis du tillader billeder at blive vist i dit feed, aktiver denne."
+
+#. Name of the plugin
+msgid "WC PartnerAds Feed"
+msgstr "WC PartnerAds Feed - DA"
+
+#. URI of the plugin
+msgid "http://dicm.dk"
+msgstr "http://dicm.dk"
+
+#. Description of the plugin
+msgid ""
+"Creates a feed to integrate with your PartnerAds campaign at http://www."
+"partner-ads.com"
+msgstr ""
+"Opretter et feed der kan benyttes til din kampagne hos http://www.partner-"
+"ads.com/"
+
+#. Author of the plugin
+msgid "Kim Vinberg"
+msgstr "Kim Vinberg"
+
+#: ../wc-partnerads-feed.php:20
+#, php-format
+msgid "WooCommerce PartnerAds feed depends on the last version of %s to work!"
+msgstr "WC PartnerAds Feed kræver den nyeste version af %s for at virke."
+
+#: ../wc-partnerads-feed.php:20
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: ../wc-partnerads-feed.php:66 ../uninstall.php:10 ../includes/class-wc-
+#: partnerads-feed.php:24
+msgctxt "page slug"
+msgid "partnerads-feed"
+msgstr "partnerads-feed"
+
+#: ../wc-partnerads-feed.php:70
+msgctxt "page name"
+msgid "Partnerads Feed"
+msgstr "Partnerads Feed"
+
+#: ../includes/class-wc-partnerads-feed.php:16
+msgid "Partnerads"
+msgstr "Partnerads"
+
+#: ../includes/class-wc-partnerads-feed.php:17
+msgid "Creates a Feed to integrate with your Partnerads."
+msgstr ""
+"Opretter et feed der kan benyttes til din kampagne hos http://www.partner-"
+"ads.com/"
+
+#: ../includes/class-wc-partnerads-feed.php:52
+msgid "Include all products in the feed"
+msgstr "Inkluder alle produkter i feed"
+
+#: ../includes/class-wc-partnerads-feed.php:54
+msgid "Activate this option if you want all products in the feed."
+msgstr "Aktiver denne indstilling hvis du vil have alle produkter i dit feed."
+
+#: ../includes/class-wc-partnerads-feed.php:59
+msgid "Default description"
+msgstr "Standard beskrivelse"
+
+#: ../includes/class-wc-partnerads-feed.php:61
+msgid "If no description is set for a prodcut this will be used."
+msgstr "Hvis ingen beskrivelse er lavet til et produkt vil denne blive vist i feedet"
+
+#: ../includes/class-wc-partnerads-feed.php:103
+msgid "PartnerAds"
+msgstr "PartnerAds"
+
+#: ../includes/class-wc-partnerads-feed.php:121
+msgid "Include in Product Feed?"
+msgstr "Vis produkt i feed?"
+
+#: ../includes/class-wc-partnerads-feed.php:122
+msgid ""
+"Enable this option to include in this product in your Product Feed. If the "
+"option \"\n"
+"Include all products in the feed\" is active, this option wont have any "
+"effect."
+msgstr ""
+"Aktiver denne indstilling for at vide produktet i dit feed. Hvis "
+"indstillingen \"inkluder alle produkter\" er aktiv, vil denne indstilling ikke "
+"have nogen effekt."
+
+#: ../includes/class-wc-partnerads-feed.php:133
+msgid "Basic Product Information"
+msgstr "Basis produkt information"
+
+#: ../includes/class-wc-partnerads-feed.php:139
+msgid "Description"
+msgstr "Beskrivelse"
+
+#: ../includes/class-wc-partnerads-feed.php:140
+msgid "Description of the item"
+msgstr "Beskrivelse af dit produkt"
+
+#: ../includes/class-wc-partnerads-feed.php:148
+msgid "Category"
+msgstr "Kategori"
+
+#: ../includes/class-wc-partnerads-feed.php:156
+msgid "Brand name"
+msgstr "Brand navn"
+
+#: ../includes/class-wc-partnerads-feed.php:157
+msgid "Brand name (Example: Armani)"
+msgstr "Brand navn (Eksempelvis: Emporio Armani)"
+
+#: ../includes/class-wc-partnerads-feed.php:164
+msgid "Shipping cost"
+msgstr "Forsendelses"
+
+#: ../includes/class-wc-partnerads-feed.php:165
+msgid "Enter shipping price (Example: 0.00)"
+msgstr "Skriv en forsendelsespris (Eksempel: 39.00)"
